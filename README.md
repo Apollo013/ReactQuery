@@ -4,9 +4,9 @@
 
 ### Blog App
 
-Demonstrates ...
+Using jsonplaceholder, this app demonstrates ...
 
-1. Creating QueryClient & QueryProvider
+1. Creating a QueryClient & QueryProvider
 2. Implementing useQuery while using isLoading / isFetching / isSuccess / isError & error objects
 3. Configuring 'staletime'
 4. Pagination & Prefetching
