@@ -15,3 +15,16 @@ Using jsonplaceholder API, this app demonstrates ...
 ### Star Wars App
 
 Using swapi API, this app demonstrates JIT fetching for infinite scrolling.
+
+### Spa Treatment
+
+A small app for creating appointments that demonstrates ...
+
+1. Manually caching data with setQueryData
+2. Clearing data using removeQueries
+3. Polling using the refetchInterval option
+4. Prefetching Data
+5. Mutating data with useMutation
+6. Invalidating data with invalidateQueries
+7. useCallback, useEffect hooks
+8. Optimistic Updates
